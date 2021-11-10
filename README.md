@@ -1,3 +1,4 @@
+[Freelancer Portfolio.zip](https://github.com/ThabangR951/TR-s-portfolio/files/7510381/Freelancer.Portfolio.zip)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ThabangR951/TR-s-portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
